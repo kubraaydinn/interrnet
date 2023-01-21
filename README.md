@@ -1,2 +1,2 @@
-# interrnet
+# internet
 internetin alt başlıkları
